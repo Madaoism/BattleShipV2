@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="11" height="11" tilewidth="64" tileheight="64" nextobjectid="1">
+ <tileset firstgid="1" name="Sea" tilewidth="64" tileheight="64">
+  <image source="tileA.png" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="2" name="tilesB" tilewidth="64" tileheight="64">
+  <image source="tilesetB.png" width="640" height="128"/>
+ </tileset>
+ <tileset firstgid="22" name="tile" tilewidth="64" tileheight="64">
+  <image source="tile.gif" width="64" height="64"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="11" height="11">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC5XKSQJAMBAAwbGGWIP4/1P1E/ShbvVGxIoNOw6cKLhw40FFi+anTtxe3EHcUdwk7iTuLG4WdxH3A65jhLrkAQAA
+  </data>
+ </layer>
+</map>
